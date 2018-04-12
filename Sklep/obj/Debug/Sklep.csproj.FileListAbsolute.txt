@@ -1,0 +1,14 @@
+Z:\baza-sklep\Sklep\Sklep\bin\Debug\Sklep.exe.config
+Z:\baza-sklep\Sklep\Sklep\bin\Debug\Sklep.exe
+Z:\baza-sklep\Sklep\Sklep\bin\Debug\Sklep.pdb
+Z:\baza-sklep\Sklep\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+Z:\baza-sklep\Sklep\Sklep\obj\Debug\Sklep.Form1.resources
+Z:\baza-sklep\Sklep\Sklep\obj\Debug\Sklep.Properties.Resources.resources
+Z:\baza-sklep\Sklep\Sklep\obj\Debug\Sklep.csproj.GenerateResource.Cache
+Z:\baza-sklep\Sklep\Sklep\obj\Debug\Sklep.csproj.CoreCompileInputs.cache
+Z:\baza-sklep\Sklep\Sklep\obj\Debug\Sklep.exe
+Z:\baza-sklep\Sklep\Sklep\obj\Debug\Sklep.pdb
+Z:\baza-sklep\Sklep\Sklep\bin\Debug\EntityFramework.dll
+Z:\baza-sklep\Sklep\Sklep\bin\Debug\EntityFramework.SqlServer.dll
+Z:\baza-sklep\Sklep\Sklep\bin\Debug\EntityFramework.xml
+Z:\baza-sklep\Sklep\Sklep\bin\Debug\EntityFramework.SqlServer.xml
